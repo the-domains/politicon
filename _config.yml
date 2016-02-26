@@ -2,6 +2,7 @@ name: politicon
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.24368
+title: 'Politicians & Integrity'
 cta:
   domain: null
   bucket: null
