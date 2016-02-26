@@ -1,7 +1,7 @@
 name: politicon
 favicon: null
 layout_spectrum: 0.6165374300908297
-typography_spectrum: 0.007062201388180256
+typography_spectrum: 0.24368
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9885323962662369
-  lightness: 0.3264272704254836
-  saturation: 0.8754790332168341
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.6095470851287246
 purpose: []
